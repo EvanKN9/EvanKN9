@@ -1,6 +1,6 @@
 ## Hi, I'm Evan 👋
 
-I'm a Computer Science Student and current Software Engineering Intern specialzing in backend development. I enjoy building applications that solve real problems and continuously improving my skills through hands-on projects.
+I'm a Computer Science student at Cal Poly Pomona and Software Engineering Intern at Glenair specializing in backend development. I enjoy building applications that solve real problems and continuously improving my skills through hands-on projects. Outside of coding, I enjoy watching films and NBA basketball.
 
 ## 🚀 Currently Working On
 
@@ -13,13 +13,13 @@ I'm a Computer Science Student and current Software Engineering Intern specialzi
 
 **Languages**
 - Python
-- SQL (learning)
+- SQL
 
 **Backend**
 - FastAPI
 - REST APIs
 
-**Databases** (learning)
+**Databases** 
 - PostgreSQL 
 - SQLite
 
@@ -27,7 +27,7 @@ I'm a Computer Science Student and current Software Engineering Intern specialzi
 - Git
 - GitHub
 - pytest
-- Docker (learning)
+- Docker
 
 ## 📌 Featured Projects
 
