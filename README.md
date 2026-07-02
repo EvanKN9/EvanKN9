@@ -1,16 +1,48 @@
-## Hi there 👋
+## Hi, I'm Evan 👋
 
-<!--
-**EvanKN9/EvanKN9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science Student and current Software Engineering Intern specialzing in backend development. I enjoy building applications that solve real problems and continuously improving my skills through hands-on projects.
 
-Here are some ideas to get you started:
+## 🚀 Currently Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎬 Movie Watchlist App
+- 🐍 Strengthening my Python and FastAPI skills
+- 🧪 Writing better tests with pytest
+- 🐳 Learning Docker and modern backend development practices
+
+## 🛠 Tech Stack
+
+**Languages**
+- Python
+- SQL (learning)
+
+**Backend**
+- FastAPI
+- REST APIs
+
+**Databases** (learning)
+- PostgreSQL 
+- SQLite
+
+**Tools**
+- Git
+- GitHub
+- pytest
+- Docker (learning)
+
+## 📌 Featured Projects
+
+### 🎬 Movie Watchlist (WIP)
+A full-stack application for tracking and organizing movies to watch, featuring authentication, REST APIs, and a PostgreSQL database.
+
+*More projects coming soon!*
+
+## 🌱 Current Goals
+
+- Build production-quality backend applications
+- Learn system design fundamentals
+- Improve testing and API architecture
+- Contribute to open-source projects
+
+## 📫 Connect
+
+- LinkedIn: *https://www.linkedin.com/in/evan-k-nguyen/*
