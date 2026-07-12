@@ -1,6 +1,6 @@
 ## Hi, I'm Evan 👋
 
-I'm a Computer Science student at Cal Poly Pomona and Software Engineering Intern at Glenair specializing in backend development. I enjoy building applications that solve real problems and continuously improving my skills through hands-on projects. Outside of coding, I enjoy [watching films](https://letterboxd.com/4McChickens/ "Follow my Letterboxd!") and NBA basketball.
+I'm a Computer Science student at Cal Poly Pomona and Software Engineering Intern at Glenair specializing in backend development. Currently trying to develop my technical skills by working on any projects that interest me. Outside of coding, I enjoy [watching films](https://letterboxd.com/4McChickens/ "Follow my Letterboxd!") and NBA basketball.
 
 ## 🚀 Currently Working On
 
@@ -13,6 +13,8 @@ I'm a Computer Science student at Cal Poly Pomona and Software Engineering Inter
 
 **Languages**
 - Python
+- Java
+- R
 - SQL
 
 **Backend**
