@@ -1,13 +1,6 @@
 ## Hi, I'm Evan 👋
 
-I'm a Computer Science student at Cal Poly Pomona and Software Engineering Intern at Glenair specializing in backend development. Currently trying to develop my technical skills by working on any projects that interest me. Outside of coding, I enjoy [watching films](https://letterboxd.com/4McChickens/ "Follow my Letterboxd!") and NBA basketball.
-
-## 🚀 Currently Working On
-
-- 🎬 Frame25, A Movie Discovery Platform
-- 🐍 Strengthening my Python and FastAPI skills
-- 🧪 Writing better tests with pytest
-- 🐳 Learning Docker and modern backend development practices
+I'm a CS student at Cal Poly Pomona. Currently developing my skills by working on any projects that interest me (primarily backend web development). Outside of coding, I enjoy [watching films](https://letterboxd.com/4McChickens/ "Follow my Letterboxd!") and NBA basketball.
 
 ## 🛠 Tech Stack
 
@@ -15,7 +8,6 @@ I'm a Computer Science student at Cal Poly Pomona and Software Engineering Inter
 - Python
 - Java
 - R
-- SQL
 
 **Backend**
 - FastAPI
@@ -30,20 +22,6 @@ I'm a Computer Science student at Cal Poly Pomona and Software Engineering Inter
 - GitHub
 - pytest
 - Docker
-
-## 📌 Featured Projects
-
-### 🎬 Frame15 (WIP)
-A full-stack movie companion that helps users track, rate, organize, and discover films while solving "what should I watch tonight?" through personalized recommendations and a smart watchlist randomizer.
-
-*More projects coming soon!*
-
-## 🌱 Current Goals
-
-- Build production-quality backend applications
-- Learn system design fundamentals
-- Improve testing and API architecture
-- Contribute to open-source projects
 
 ## 📫 Connect
 
