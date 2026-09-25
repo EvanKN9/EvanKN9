@@ -1,16 +1,16 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&color=gradient" />
 
-<h1 align="center">👋 Hi, I'm Evan</h1>
+<h1 align="center">Hi, I'm Evan 👋</h1>
 
 <p align="center">
-  Computer Science Student @ Cal Poly Pomona • Backend / Full-Stack Development
+  Backend / Full-Stack Development
 </p>
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science student at **Cal Poly Pomona** focused on backend and full-stack development.
+I'm a CS student at Cal Poly Pomona, mainly focused on web development.
 
-I enjoy building web applications and learning more about API design, databases, authentication, testing, and modern web development.
+I also have an interest in data analysis and computer graphics, which I hope to learn and incorporate into my own projects in the future.
 
 ## 🛠️ Tech Stack
 
