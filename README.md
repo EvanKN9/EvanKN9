@@ -45,7 +45,7 @@ A full-stack blogging application built around a REST API using **FastAPI and Po
 - Async database operations
 - RESTful API design
 
-`FastAPI` `PostgreSQL` `Jinja HTML` 
+`FastAPI` `PostgreSQL` `Jinja2` 
 
 ### 🎬 [Movie Watchlist](https://github.com/EvanKN9/Frame25)
 
@@ -55,37 +55,31 @@ Currently evolving the project toward a larger full-stack application with persi
 
 `Python` `FastAPI` `PostgreSQL`
 
-## 📚 Currently Learning
-
-- Backend architecture and API design
-- PostgreSQL and relational database design
-- React and frontend development
-- Testing with pytest
-- Docker and application deployment
-
-## 👽 When I'm Not Coding
-
-<div align="center">
-  <a href="https://myanimelist.net/profile/bigredstopsign" target="_blank">
-    <img
-      width="300"
-      alt="Kaguya Shinomiya"
-      title="Check out my MyAnimeList!"
-      src="https://github.com/user-attachments/assets/e84c1a4a-489f-4619-8be7-952b52e0f947"
-    />
-  </a>
-</div>
-
-<p align="center">
-  🎬 <a href="https://letterboxd.com/4McChickens/">Letterboxd</a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  🎮 Probably playing too much Overwatch
-</p>
-
 ## 🤝 Connect With Me
 
 <div align="left">
   <a href="https://www.linkedin.com/in/evan-k-nguyen/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" /></a><a href="https://discord.com/users/329026666900881408"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord" /></a>
 </div>
+
+<br>
+
+<details>
+  <summary><h2>👽 When I'm Not Coding</h2></summary>
+  <div align="center">
+    <a href="https://myanimelist.net/profile/bigredstopsign" target="_blank">
+      <img
+        width="300"
+        alt="Kaguya Shinomiya"
+        title="Check out my MyAnimeList!"
+        src="https://github.com/user-attachments/assets/e84c1a4a-489f-4619-8be7-952b52e0f947"
+      />
+    </a>
+  </div>
+    <p align="center">
+    🎬 <a href="https://letterboxd.com/4McChickens/">Letterboxd</a>
+    &nbsp;&nbsp;•&nbsp;&nbsp;
+    🎮 Probably playing too much Overwatch
+  </p>
+</details>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient" />
