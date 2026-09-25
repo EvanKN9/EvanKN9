@@ -68,7 +68,7 @@ Currently evolving the project toward a larger full-stack application with persi
 <div align="center">
   <a href="https://myanimelist.net/profile/bigredstopsign" target="_blank">
     <img
-      width="482"
+      width="300"
       alt="Kaguya Shinomiya"
       title="Check out my MyAnimeList!"
       src="https://github.com/user-attachments/assets/e84c1a4a-489f-4619-8be7-952b52e0f947"
