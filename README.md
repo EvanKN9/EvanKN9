@@ -45,7 +45,7 @@ A full-stack blogging application built around a REST API using **FastAPI and Po
 - Async database operations
 - RESTful API design
 
-`FastAPI` `PostgreSQL` `Jinja2` 
+`FastAPI` `PostgreSQL` `Jinja2` `AWS S3`
 
 ### 🎬 [Movie Watchlist](https://github.com/EvanKN9/Frame25)
 
