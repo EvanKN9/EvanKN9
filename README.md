@@ -8,9 +8,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a CS student at Cal Poly Pomona, mainly focused on web development.
-
-I also have an interest in data analysis and computer graphics, which I hope to learn and incorporate into my own projects in the future.
+CS Student at Cal Poly Pomona.
 
 ## 🛠️ Tech Stack
 
