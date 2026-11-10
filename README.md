@@ -45,7 +45,7 @@ A full-stack blogging application built around a REST API using **FastAPI and Po
 
 `FastAPI` `PostgreSQL` `Jinja2` `AWS S3`
 
-### 🎬 [Movie Watchlist](https://github.com/EvanKN9/Frame25)
+### 🎬 Movie Watchlist
 
 A movie tracking application for organizing movies and building personal watchlists.
 
